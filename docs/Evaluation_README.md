@@ -1,10 +1,10 @@
 ### Evaluation on DocGenome-TestSet-DocQA
 
-- Firstly, you need to download the test dataset [here](https://huggingface.co/datasets/U4R/DocGenome-Testset/tree/main).
-- Then, unzip the `DocGenome-Testset.zip` as follows:
+- Firstly, you need to download the test dataset [here](https://drive.google.com/file/d/1aE3AC-_ArAh3bM2HLCm0cLlLUS6JEhEQ/view?usp=sharing).
+- Then, unzip the `DocGenome-test.zip` as follows:
 
 ```
-DocGenome-Testset-DocQA
+DocGenome-test
 ├── testset
 │   ├── xxx
 ├── eval_tools

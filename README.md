@@ -18,7 +18,7 @@ We present DocGenome, a structured document dataset constructed by annotating 50
 
 ## 👇🏻DocGenome-Test Download
 
-  [DocGenome-test](https://drive.google.com/drive/folders/1OIhnuQdIjuSSDc_QL2nP4NwugVDgtItD?usp=sharing)
+  [DocGenome-test](https://drive.google.com/file/d/1aE3AC-_ArAh3bM2HLCm0cLlLUS6JEhEQ/view?usp=sharing)
 
 Please refer to [Evaluation_README](docs/Evaluation_README.md) for the evaluation details.
 
