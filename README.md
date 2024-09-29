@@ -1,5 +1,9 @@
 # DocGenome: A Large Benchmark for Multi-Modal Language Models in Real-World Academic Document Understanding
 
+<div align=center>
+<img src="assets/motivation.png" height="95%">
+</div>
+
 We present DocGenome, a structured document dataset constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline DocParser. DocGenome features four characteristics:
 
 - 1) Completeness: It is the first dataset to structure data from all modalities including 13 layout attributes along with their \LaTeX\ source codes. 
@@ -12,9 +16,11 @@ We present DocGenome, a structured document dataset constructed by annotating 50
 
   [DocGenome-train](https://drive.google.com/drive/folders/1OIhnuQdIjuSSDc_QL2nP4NwugVDgtItD?usp=sharing)
 
-<div align=center>
-<img src="assets/motivation.png" height="95%">
-</div>
+## 👇🏻DocGenome-Test Download
+
+  [DocGenome-test](https://drive.google.com/drive/folders/1OIhnuQdIjuSSDc_QL2nP4NwugVDgtItD?usp=sharing)
+
+Please refer to [Evaluation_README](docs/Evaluation_README.md) for the evaluation details.
 
 ## File Structure
 Please refer to [Dataset_Details_README](Dataset_Details_README.md) for the detalied explanation about the different file structures in DocGenome.
